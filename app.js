@@ -1,4 +1,4 @@
-
+//  contact forms and buttons 
 
 function scrollToSection(id) {
     const element = document.getElementById(id);
