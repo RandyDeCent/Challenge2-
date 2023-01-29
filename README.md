@@ -5,7 +5,7 @@ Portfolio page
 This is my personal portfolio page, showcasing my projects and experiences.
 ![profilepage](https://user-images.githubusercontent.com/109132522/215359288-e3bc9342-d5ae-4d0a-9992-4ce45960583c.PNG)
 
-
+Deployment link : https://randydecent.github.io/Challenge2-/
 
 
 ## Technologies Used
